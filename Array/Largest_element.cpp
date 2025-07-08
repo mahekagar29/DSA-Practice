@@ -1,4 +1,4 @@
-//Largest element
+//Largest element in array
 //brute force solution
 #include<bits/stdc++.h>
 using namespace std;
