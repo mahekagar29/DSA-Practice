@@ -15,6 +15,7 @@ int main(){
         arr[i]=arr[i+1];
     }
     arr[a-1]=temp;
+    cout<<"Rotated array: ";
     for(int i=0;i<a;i++){
         cout<<arr[i]<<" ";
     }
